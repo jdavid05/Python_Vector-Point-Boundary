@@ -1,0 +1,20 @@
+Results for file: data3
+
+--------------------------------------------------
+    coordinates (16.5, 18.5) - are upper limits.
+    coordinates ( 3.5,  0.5) - are lower limits.
+--------------------------------------------------
+    pair: ( 2.9,  3.2) - x value is LOW.
+    pair: ( 5.0, 16.1) - is OK.
+    pair: (15.0, 19.0) - y value is HIGH.
+    pair: (13.5, 11.0) - is OK.
+    pair: (17.7,  4.3) - x value is HIGH.
+    pair: (12.5,  8.8) - is OK.
+    pair: ( 2.9,  3.2) - x value is LOW.
+
+
+		Summary        
+==================================================
+There were 7 vertices in the data.
+    - 3 points were inside the boundary.
+    - 4 points were outside the boundary.
